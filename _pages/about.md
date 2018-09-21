@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Luis/strong> Fernando
+title: <strong>Luis</strong> Fernando
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
