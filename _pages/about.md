@@ -2,20 +2,21 @@
 layout: about
 permalink: /
 title: <strong>Luis</strong> Fernando
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="">Programmer</a>, Astrophysicist, Teacher, Brazilian. In no particular order.
 
 profile:
   align: right
   image: luis.jpg
   address: >
-    <p>New York, NY</p>
+    <p>(Where I took this picture, Date)</p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Software Developer at Bloomberg L.P. working on the Client Technologies Internal Apps team. I graduated with a B.S. in Astrophysics from Yale, and completed my Senior Thesis with Professor Daisuke Nagai on Cosmological Simulations of low-mass galaxy clusters.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am passionate about teaching and spend my free time [watching lectures](https://www.youtube.com/watch?v=f27bh4CIky4&list=PLLom0wCJlLFz_nsybvEMRPyZdOYopQmWV){:target="\_blank"} and [reading teaching-related articles](https://www.physics.umd.edu/perg/qm/qmcourse/NewModel/research/whatwork/index.htm){:target="\_blank"} so I can one day teach someone Physics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an avid explorer of the intersecion between Natural Sciences and Computer Science. Since my undergraduate career, I have been fascinated by how computer models of the real world (so called "simulations") can provide so much insight into how our Universe works, from the smallest realms of quantum mechanics to the vast, vast study of cosmology.
+
