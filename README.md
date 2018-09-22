@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Luis Fernando's Personal Website
 
-You can use the [editor on GitHub](https://github.com/lmachadopolettivalle/lmachadopolettivalle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Source code for my [personal website](https://lmachadopolettivalle.github.io/), based on the [Jekyll](https://jekyllrb.com/) theme developed by [Maruan Alshedivat](https://www.cs.cmu.edu/~mshediva/) (who also uses this template!).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Using this Website template
 
-```markdown
-Syntax highlighted code block
+To use this template, head over to the [original repo](https://github.com/alshedivat/al-folio/blob/master/README.md) and follow their instructions!
+For more about how to use Jekyll, check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
+Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmachadopolettivalle/lmachadopolettivalle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
