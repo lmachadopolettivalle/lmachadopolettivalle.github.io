@@ -16,7 +16,7 @@ social: true
 
 I am currently a Software Developer at Bloomberg L.P. working on the Client Technologies Internal Apps team.
 
-I graduated with a B.S. in Astrophysics from Yale, and completed my Senior Thesis with Professor [Daisuke Nagai](http://www.astro.yale.edu/nagai/Welcome.html){target:"\_blank"} on Cosmological Simulations of low-mass galaxy clusters.
+I graduated with a B.S. in Astrophysics from Yale, and completed my Senior Thesis with Professor [Daisuke Nagai](http://www.astro.yale.edu/nagai/Welcome.html) on Cosmological Simulations of low-mass galaxy clusters.
 
 I am passionate about teaching, and spend my free time [watching lectures](https://www.youtube.com/watch?v=f27bh4CIky4&list=PLLom0wCJlLFz_nsybvEMRPyZdOYopQmWV){:target="\_blank"} and [reading teaching-related articles](https://www.physics.umd.edu/perg/qm/qmcourse/NewModel/research/whatwork/index.htm){:target="\_blank"} so I can one day teach someone Physics.
 
