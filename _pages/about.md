@@ -6,9 +6,7 @@ description: Programmer, Astrophysicist, Aspiring teacher, Brazilian. In no part
 
 profile:
   align: right
-  image: assets/img/Luis.jpg
-  address: >
-    <p>(Where I took this picture, Date)</p>
+  image: assets/img/luis.jpg
 
 news: false
 social: true
