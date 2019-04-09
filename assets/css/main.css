@@ -28,6 +28,16 @@
   padding-left: 50px;
 }
 
+.wrapper-main {
+  max-width: -webkit-calc(800px - (50px * 2));
+  max-width: calc(800px - (50px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-bottom: 100px;
+}
+
 .post-header {
   margin-bottom: 40px;
 }
