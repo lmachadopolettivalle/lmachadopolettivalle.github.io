@@ -6,9 +6,9 @@ let a2_v;
 
 let r1 = 150.;
 let r2 = 150.;
-let m1 = 40.;
-let m2 = 40.;
-let g = 0.75;
+let m1 = 10.;
+let m2 = 10.;
+let g = 0.6;
 
 let path1 = [];
 let path2 = [];
@@ -26,7 +26,7 @@ function setup() {
     a1_v = 0.;
     a2_v = 0.;
 
-    a3 = PI / 2;
+    a3 = PI / 3;
     a4 = PI / 2;
 
     a3_v = random(0.01);
@@ -38,7 +38,7 @@ function draw() {
     translate(width / 2, height / 3);
 
     // Reset before floating point imprecision adds up and creates messy values
-    if (frameCount % 5000 == 0) {
+    if (frameCount % 3000 == 0) {
         a1 = PI / 2;
         a2 = PI / 2;
 

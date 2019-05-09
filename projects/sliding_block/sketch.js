@@ -23,19 +23,16 @@ function setup() {
     world = engine.world;
 
     // create two boxes and a ground
-    bodies.push(new Block(200, 200, 80, 80, {
-        restitution: 2,
+    bodies.push(new Block(200, 100, 80, 80, {
+        angle: PI / 6,
         velocity: {
-            x: 1,
+            x: 0,
             y: 0
         },
     }));
-    bodies.push(new Block(400, 50, 80, 80, {
-        restitution: 2
-    }));
-    bodies.push(new Block(width / 2, 500, windowWidth, 60, {
+    bodies.push(new Block(0, height / 2, windowWidth, 60, {
         isStatic: true,
-        restitution: 2,
+        angle: PI / 6,
     }));
 }
 
