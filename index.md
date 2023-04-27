@@ -4,11 +4,11 @@
 
 ## SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning
 
-First-author peer-reviewed publication, published to MNRAS.
+First-author peer-reviewed publication, published to MNRAS. See the full article [on MNRAS](https://academic.oup.com/mnras/article/507/1/1468/6343038) and [on arXiv](https://arxiv.org/abs/2011.12987).
 
-Machine learning models become even more impressive if they are _interpretable_, specially if their parameters can provide intuition into complex systems. In this publication, I applied _SHAPley_ values to a _XGBoost_ regression model, to predict the 3D shapes of gas clouds based on their dark matter host properties. The connection between gas and dark matter is a complicated but powerful metric in our understanding of the Universe, and this work helps us develop faster and more accurate simulations of this connection.
+Machine learning models become even more impressive if they are _interpretable_, specially if their parameters can provide intuition into complex systems. In this publication, I applied _SHAPley_ values to a _XGBoost_ regression model, to predict the 3D shapes of gas clouds based on their dark matter host properties.
 
-See the full article [on MNRAS](https://academic.oup.com/mnras/article/507/1/1468/6343038) and [on arXiv](https://arxiv.org/abs/2011.12987).
+The connection between gas and dark matter is a complicated but powerful metric in our understanding of the Universe, and this work helps us develop faster and more accurate simulations of this connection.
 
 ---
 

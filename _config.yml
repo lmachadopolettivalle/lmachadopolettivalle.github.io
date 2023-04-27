@@ -2,13 +2,14 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+show_downloads: false
+
 title: Luis Machado
 logo: "/images/profile.jpg?raw=true"
 description: >
-  <br>
   Software Engineer and Data Scientist with 4 years of industry and research experience.
   <br><br>
-  In 2023 I completed my Physics MSc from ETH Zurich, Switzerland with a 5.85/6.0 GPA. In 2018 I completed my Astrophysics BSc from Yale University, USA, with a 3.94/4.0 GPA.
+  In 2023 I completed my Physics MSc from ETH Zurich with a 5.85/6.0 GPA. In 2018 I completed my Astrophysics BSc from Yale University with a 3.94/4.0 GPA.
   <br><br>
   Between 2018 and 2021 I worked as a full-stack software engineer at Bloomberg L.P. There, I worked on the Internal Applications team. I also acted as a Python trainer for newly hired software engineers, and as a member of the inner source Python Guild.
   <br><br>
