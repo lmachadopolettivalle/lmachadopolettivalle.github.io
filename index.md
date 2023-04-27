@@ -4,12 +4,26 @@
 
 ## SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning
 
-First-author peer-reviewed publication. Applied XGBoost and SHAPley values to obtain an interpretable regression model connecting gas 3D shapes to properties of their dark matter hosts. The results provide a powerful model for adding baryons to dark matter only simulations.
+First-author peer-reviewed publication, published to MNRAS.
 
-See the article [on arXiv](https://arxiv.org/abs/2011.12987).
+Machine learning models become even more impressive if they are _interpretable_, specially if their parameters can provide intuition into complex systems. In this publication, I applied _SHAPley_ values to a _XGBoost_ regression model, to predict the 3D shapes of gas clouds based on their dark matter host properties. The connection between gas and dark matter is a complicated but powerful metric in our understanding of the Universe, and this work helps us develop faster and more accurate simulations of this connection.
+
+See the full article [on MNRAS](https://academic.oup.com/mnras/article/507/1/1468/6343038) and [on arXiv](https://arxiv.org/abs/2011.12987).
 
 ---
 
+## Full-Stack Software Engineering: Experience and Software Stack
+
+During my time at Bloomberg L.P., I worked as a full-stack engineer in the Internal Applications team. I used Javascript in the frontend (with a UI tool developed in house), and Python, C++ and Javascript in the backend, and SQL relational databases.
+
+I also attended the Bloomberg Machine Learning course, available [here](https://bloomberg.github.io/foml/#home).
+
+---
+
+## Teaching Assistant: Numerical Analysis for Differential Equations, ETH Zurich
+
+During 2022 and 2023, I was a Teaching Assistant at ETH Zurich for the Math BSc course on _Numerical Analysis_. See the course catalogue and materials [here](https://people.math.ethz.ch/~grsam/SS23/NAII/index.html). I received the ETH VMP Teaching Assistant Award based on student votes and feedback, as announced [here](https://math.ethz.ch/news-and-events/news/d-math-news/2022/07/ten-teaching-assistants-received-the-vmp-assistant-award.html).
+
 ## Currently learning
 
-I am currently building my own full-stack website as a learning project. I am exploring React and NextJS for the front-end, and NodeJS with Express for the backend.
+I am currently building my own full-stack website as a learning project. I am exploring React and NextJS for the frontend, and NodeJS with Express for the backend.
