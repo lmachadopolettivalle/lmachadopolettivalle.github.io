@@ -1,3 +1,14 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+title: Luis Machado
+logo: "/images/profile.jpg?raw=true"
+description: >
+  <br>
+  Software Engineer and Data Scientist with 4 years of industry and research experience.
+  Physics MSc from ETH Z\"urich, Switzerland (graduated in 2023) and Astrophysics BSc from Yale University, USA (graduated in 2018).
+  <br>
+  I worked as a full-stack software engineer at Bloomberg L.P. from 2018 to 2021.
+  <br>
+  <a href="https://www.linkedin.com/in/luisfernandomachado/">View my LinkedIn Profile</a>
