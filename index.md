@@ -1,5 +1,9 @@
 # Select projects in scientific research, data science and software engineering
 
+[My LinkedIn Profile](https://www.linkedin.com/in/luisfernandomachado/)
+
+[My GitHub Profile](https://github.com/lmachadopolettivalle)
+
 ---
 
 ## SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning
@@ -23,6 +27,8 @@ I also attended the Bloomberg Machine Learning course, available [here](https://
 ## Teaching Assistant: Numerical Analysis for Differential Equations, ETH Zurich
 
 During 2022 and 2023, I was a Teaching Assistant at ETH Zurich for the Math BSc course on _Numerical Analysis_. See the course catalogue and materials [here](https://people.math.ethz.ch/~grsam/SS23/NAII/index.html). I received the ETH VMP Teaching Assistant Award based on student votes and feedback, as announced [here](https://math.ethz.ch/news-and-events/news/d-math-news/2022/07/ten-teaching-assistants-received-the-vmp-assistant-award.html).
+
+---
 
 ## Currently learning
 
