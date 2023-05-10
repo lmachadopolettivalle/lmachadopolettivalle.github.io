@@ -1,8 +1,18 @@
 # Select projects in scientific research, data science and software engineering
 
-[My LinkedIn Profile](https://www.linkedin.com/in/luisfernandomachado/)
+[My LinkedIn Profile](https://www.linkedin.com/in/luisfernandomachado/) | [My GitHub Profile](https://github.com/lmachadopolettivalle)
 
-[My GitHub Profile](https://github.com/lmachadopolettivalle)
+---
+
+## Full-Stack Software Engineering: Experience and Software Stack
+
+During my time at Bloomberg L.P. (2018 - 2021), I worked as a full-stack engineer in the Internal Applications team. I used Javascript in the frontend (with a UI tool developed in house), and Python, C++ and Javascript in the backend, and SQL relational databases.
+
+I also worked as a Python trainer, where I taught Test Driven Development and Python for Backend Development to 100+ new engineers.
+
+I developed software for the inner source internal Python Guild, improving libraries used by our 5000+ developers.
+
+I also attended the Bloomberg Machine Learning course, available [here](https://bloomberg.github.io/foml/#home).
 
 ---
 
@@ -13,14 +23,6 @@ First-author peer-reviewed publication, published to MNRAS. See the full article
 Machine learning models become even more impressive if they are _interpretable_, specially if their parameters can provide intuition into complex systems. In this publication, I applied _SHAPley_ values to a _XGBoost_ regression model, to predict the 3D shapes of gas clouds based on their dark matter host properties.
 
 The connection between gas and dark matter is a complicated but powerful metric in our understanding of the Universe, and this work helps us develop faster and more accurate simulations of this connection.
-
----
-
-## Full-Stack Software Engineering: Experience and Software Stack
-
-During my time at Bloomberg L.P., I worked as a full-stack engineer in the Internal Applications team. I used Javascript in the frontend (with a UI tool developed in house), and Python, C++ and Javascript in the backend, and SQL relational databases.
-
-I also attended the Bloomberg Machine Learning course, available [here](https://bloomberg.github.io/foml/#home).
 
 ---
 
