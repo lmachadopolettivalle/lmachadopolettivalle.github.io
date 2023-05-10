@@ -1,0 +1,14 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+show_downloads: false
+
+title: Luis Fernando Machado Poletti Valle
+logo: "/images/profile.jpg?raw=true"
+description: >
+  Software Engineer and Data Scientist with 5 years of industry and research experience.
+  <br><br>
+  2021-2023: Physics MSc at ETH Zurich. GPA: 5.85/6.0
+  <br>
+  2014-2018: Astrophysics BSc at Yale University. GPA: 3.94/4.0
